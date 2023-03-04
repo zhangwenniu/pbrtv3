@@ -29,3 +29,11 @@ void InitGlobals() {
         <Do precomputation before loop>
         <Loop throught and update values array>
     }
+
+<A fasinating fragment> ===
+    nMarbles += .001;
+
+<Do something interesting> +===
+    InitializeSomethingInteresting();
+    <Do something else interesting 486>
+    CleanUp();
